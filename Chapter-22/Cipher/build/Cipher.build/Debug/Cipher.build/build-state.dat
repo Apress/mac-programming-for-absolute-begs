@@ -1,0 +1,344 @@
+TCipher
+v7
+r0
+t314750258.468179
+cCheck dependencies
+cProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Info.plist" Cipher-Info.plist
+cCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch.gch Cipher_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher" normal x86_64
+cTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.h
+c000000004D0303C70000000000000139
+t1292043207
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m
+c000000004D05569E0000000000000A20
+t1292195486
+s2592
+i"CipherAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/Cipher_Prefix.pch
+c000000004D0303C7000000000000008F
+t1292043207
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/InfoPlist.strings
+c000000004D0303C6000000000000002D
+t1292043206
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/MainMenu.xib
+c000000004D127DA3000000000002CA04
+t1293057443
+s182788
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/Cipher.LinkFileList
+c000000004D127DAB000000000000013B
+t1293057451
+s315
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o
+t1293057458
+s27796
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o
+t1293057458
+s5080
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app
+t1293057458
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Info.plist
+t1292083593
+s883
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher
+t1293057458
+s15072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/PkgInfo
+t1292083593
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292083595
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293057451
+s34367
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m
+c000000004D0303C700000000000000FD
+t1292043207
+s253
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.h
+c000000004D0303C70000000000000139
+t1292043207
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.m
+c000000004D05569E0000000000000A20
+t1292195486
+s2592
+i"CipherAppDelegate.h"
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/Cipher_Prefix.pch
+c000000004D0303C7000000000000008F
+t1292043207
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/InfoPlist.strings
+c000000004D0303C6000000000000002D
+t1292043206
+s45
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib
+c000000004D031F070000000000032511
+t1292050183
+s206097
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/Cipher.LinkFileList
+c000000004D03A1880000000000000107
+t1292083592
+s263
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o
+t1292195489
+s27740
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o
+t1292083609
+s5024
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app
+t1292195489
+s102
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Info.plist
+t1292083593
+s883
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher
+t1292195489
+s14968
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/PkgInfo
+t1292083593
+s8
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292083595
+s92
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292083597
+s39594
+
+N/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/main.m
+c000000004D0303C700000000000000FD
+t1292043207
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-dbfyprecfvqgrhandjudlrvgbouq/Cipher_Prefix.pch.gch
+t1292083609
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch.gch
+t1293057457
+s54306576
+
+NCipher-Info.plist
+c000000004D0303C700000000000003EA
+t1292043207
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314750251#314750251#0(0"0(0#1#0"8603170720#0"0#
+
+CCompileC build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314750257.815455
+e314750258.096785
+r1
+xCompileC
+xbuild/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m314750257#314750258#0(0"0(0#0#103"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m8600935392#1973"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/CipherAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o"0#
+
+CCompileC build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313888289.412609
+e313888289.915362
+r1
+xCompileC
+xbuild/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.m313888289#313888289#0(0"0(0#0#77"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.m8655487808#1687"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-generated-files.hmap" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-own-target-headers.hmap" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-project-headers.hmap" "-F/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/include" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-dbfyprecfvqgrhandjudlrvgbouq/Cipher_Prefix.pch -c "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/CipherAppDelegate.m" -o "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/CipherAppDelegate.o"0#
+
+CCompileC build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314750257.813917
+e314750258.026824
+r1
+xCompileC
+xbuild/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m314750257#314750258#0(0"0(0#0#90"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m8603154400#1947"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313776409.340621
+e313776409.643637
+r1
+xCompileC
+xbuild/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/main.m313776409#313776409#0(0"0(0#0#64"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/main.m8609771136#1661"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-generated-files.hmap" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-own-target-headers.hmap" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-project-headers.hmap" "-F/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/include" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-dbfyprecfvqgrhandjudlrvgbouq/Cipher_Prefix.pch -c "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/main.m" -o "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/MainMenu.xib"
+s314750251.403700
+e314750251.931114
+r1
+xCompileXIB
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib314750251#314750251#0(0"0(0#0#110"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/MainMenu.xib8606106336#504"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib"
+s313776393.070098
+e313776398.001395
+r1
+xCompileXIB
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib:558: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib313776393#313776398#0(171"/* com.apple.ibtool.document.notices *//Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib:558: note: This view is clipping its content.1(13@34"This view is clipping its content.313776398#18446744073709551615#0#0(6@84"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib313742983#558#0#558#0#0"0(0#0#84"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib8638835328#426"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s313776393.066787
+e313776395.540823
+r1
+xCopyStringsFile
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings313776393#313776395#0(0"0(0#0#89"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/English.lproj/InfoPlist.strings8618731488#406"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher" normal x86_64
+s314750258.096905
+e314750258.455549
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher
+xnormal
+xx86_64
+lSLF07#2@133"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher314750258#314750258#0(0"0(0#0#0"8597046176#772"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/Cipher.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher"0#
+
+CLd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher" normal x86_64
+s313888289.915464
+e313888289.961387
+r1
+xLd
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher
+xnormal
+xx86_64
+lSLF07#2@107"Link /Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher313888289#313888289#0(0"0(0#0#0"8655964992#642"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug" "-F/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug" -filelist "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Objects-normal/x86_64/Cipher.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/MacOS/Cipher"0#
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app/Contents/Info.plist" Cipher-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Info.plist" Cipher-Info.plist
+s313776392.887606
+e313776393.066662
+r1
+xProcessInfoPlistFile
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Info.plist
+xCipher-Info.plist
+lSLF07#2@25"Process Cipher-Info.plist313776393#313776393#0(0"0(0#0#75"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/Cipher-Info.plist7881706611452039168#370"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    builtin-infoPlistUtility Cipher-Info.plist -genpkginfo "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-dbfyprecfvqgrhandjudlrvgbouq/Cipher_Prefix.pch.gch Cipher_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s313776398.001718
+e313776409.340320
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-dbfyprecfvqgrhandjudlrvgbouq/Cipher_Prefix.pch.gch
+xCipher_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Cipher_Prefix.pch313776398#313776409#0(0"0(0#0#75"/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/Cipher_Prefix.pch8614855904#1547"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-generated-files.hmap" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-own-target-headers.hmap" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-project-headers.hmap" "-F/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/include" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources" -c "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/Cipher_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-dbfyprecfvqgrhandjudlrvgbouq/Cipher_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch.gch Cipher_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314750251.931233
+e314750257.813647
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch.gch
+xCipher_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Cipher_Prefix.pch314750251#314750257#0(0"0(0#0#101"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/Cipher_Prefix.pch8608465120#1807"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/Cipher-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Cipher.build/Debug/Cipher.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/Cipher_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Cipher_Prefix-evynljwdhmdauccoyfnuerqhpokg/Cipher_Prefix.pch.gch0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app"
+s314750258.455652
+e314750258.468121
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app
+lSLF07#2@112"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app314750258#314750258#0(0"0(0#0#0"8608467040#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-22/Cipher/build/Debug/Cipher.app"0#
+
+CTouch "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app"
+s313888289.961489
+e313888289.964841
+r1
+xTouch
+x/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app
+lSLF07#2@86"Touch /Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app313888289#313888289#0(0"0(0#0#0"8655696224#172"    cd "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher"    /usr/bin/touch -c "/Users/bothecat/Documents/Mac OS X Sample Programs/Cipher/build/Debug/Cipher.app"0#
+

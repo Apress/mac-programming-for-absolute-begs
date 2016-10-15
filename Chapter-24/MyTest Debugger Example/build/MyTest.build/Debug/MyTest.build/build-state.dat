@@ -1,0 +1,196 @@
+TMyTest
+v7
+r0
+t314750397.413065
+cCheck dependencies
+cProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Info.plist" MyTest-Info.plist
+cCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch.gch MyTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/MacOS/MyTest" normal x86_64
+cTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/InfoPlist.strings
+c000000004D127DE6000000000000002D
+t1293057510
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/MainMenu.xib
+c000000004D127DE7000000000002BB60
+t1293057511
+s179040
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.h
+c000000004D127DE70000000000000139
+t1293057511
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m
+c000000004D127E2A00000000000001CA
+t1293057578
+s458
+i"MyTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTest_Prefix.pch
+c000000004D127DE7000000000000008F
+t1293057511
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app
+t1293057597
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Info.plist
+t1293057592
+s883
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/MacOS/MyTest
+t1293057597
+s14808
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/PkgInfo
+t1293057592
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293057593
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293057592
+s34368
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTest.LinkFileList
+c000000004D127E38000000000000013B
+t1293057592
+s315
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTestAppDelegate.o
+t1293057597
+s21496
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/main.o
+t1293057597
+s5080
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m
+c000000004D127DE700000000000000FD
+t1293057511
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch.gch
+t1293057597
+s54306576
+
+NMyTest-Info.plist
+c000000004D127DE700000000000003EA
+t1293057511
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314750392#314750392#0(0"0(0#1#0"8600970624#0"0#
+
+CCompileC build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314750397.173852
+e314750397.365830
+r1
+xCompileC
+xbuild/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m314750397#314750397#0(0"0(0#0#103"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m8611841280#1973"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTestAppDelegate.o"0#
+
+CCompileC build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314750397.172623
+e314750397.359388
+r1
+xCompileC
+xbuild/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m314750397#314750397#0(0"0(0#0#90"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m8608888000#1947"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/MainMenu.xib"
+s314750392.559082
+e314750393.103165
+r1
+xCompileXIB
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib314750392#314750393#0(0"0(0#0#110"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/MainMenu.xib8609120512#504"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s314750392.558073
+e314750393.302867
+r1
+xCopyStringsFile
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings314750392#314750393#0(0"0(0#0#115"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/English.lproj/InfoPlist.strings8610451584#458"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/MacOS/MyTest" normal x86_64
+s314750397.365970
+e314750397.409608
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/MacOS/MyTest
+xnormal
+xx86_64
+lSLF07#2@133"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/MacOS/MyTest314750397#314750397#0(0"0(0#0#0"8610687520#772"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/Objects-normal/x86_64/MyTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/MacOS/MyTest"0#
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Info.plist" MyTest-Info.plist
+s314750392.479982
+e314750392.557969
+r1
+xProcessInfoPlistFile
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Info.plist
+xMyTest-Info.plist
+lSLF07#2@25"Process MyTest-Info.plist314750392#314750392#0(0"0(0#0#101"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTest-Info.plist8609243392#448"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    builtin-infoPlistUtility MyTest-Info.plist -genpkginfo "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch.gch MyTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314750393.302999
+e314750397.172426
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch.gch
+xMyTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile MyTest_Prefix.pch314750393#314750397#0(0"0(0#0#101"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTest_Prefix.pch8608600864#1807"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/MyTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/MyTest.build/Debug/MyTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/MyTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MyTest_Prefix-egfucxtvlmnagdhiiqmdyzdaypzi/MyTest_Prefix.pch.gch0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app"
+s314750397.409714
+e314750397.413014
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app
+lSLF07#2@112"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app314750397#314750397#0(0"0(0#0#0"8609955136#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/Chapter-24/MyTest/build/Debug/MyTest.app"0#
+

@@ -1,0 +1,1888 @@
+TVariableTest
+v7
+r0
+t314741857.788554
+cCheck dependencies
+cProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+cCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+cTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.m
+c000000004D125C29000000000000028A
+t1293048873
+s650
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app
+t1293048878
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293048878
+s15112
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D125C2E0000000000000153
+t1293048878
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293048878
+s23188
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293047944
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.m
+c000000004D1257E5000000000000027D
+t1293047781
+s637
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app
+t1293047786
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293047786
+s15064
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1257E60000000000000155
+t1293047782
+s341
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293047786
+s22820
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293047786
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.m
+c000000004D12583E0000000000000270
+t1293047870
+s624
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app
+t1293047877
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293047877
+s15064
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1258410000000000000155
+t1293047873
+s341
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293047877
+s22896
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293047877
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.m
+c000000004D125881000000000000026F
+t1293047937
+s623
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app
+t1293047944
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293047944
+s15064
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1258830000000000000155
+t1293047939
+s341
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293047944
+s22896
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293047944
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.m
+c000000004D125C7D00000000000002CF
+t1293048957
+s719
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app
+t1293048987
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293048987
+s15176
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D125C820000000000000153
+t1293048962
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293048987
+s23528
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293047944
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m
+c000000004D125CDA00000000000002C8
+t1293049050
+s712
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app
+t1293049057
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293049057
+s15176
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D125CDD0000000000000153
+t1293049053
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293049057
+s23536
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293047944
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.m
+c000000004D124680000000000000034B
+t1293043328
+s843
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app
+t1293043331
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293043331
+s14976
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1246820000000000000153
+t1293043330
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293043331
+s22580
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293042508
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.m
+c000000004D1246C700000000000002EC
+t1293043399
+s748
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app
+t1293043404
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293043404
+s14976
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1246CC0000000000000153
+t1293043404
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293043404
+s22516
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293042508
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.m
+c000000004D1247060000000000000285
+t1293043462
+s645
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app
+t1293043464
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293043464
+s15168
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1247080000000000000153
+t1293043464
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293043464
+s23384
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293042508
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.m
+c000000004D1247420000000000000299
+t1293043522
+s665
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app
+t1293043530
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293043530
+s15056
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1247440000000000000153
+t1293043524
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293043530
+s23164
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293043530
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.m
+c000000004D1247930000000000000283
+t1293043603
+s643
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app
+t1293043611
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293043611
+s15056
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D1247950000000000000153
+t1293043605
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293043611
+s23040
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293043611
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.m
+c000000004D124F0A000000000000028D
+t1293045514
+s653
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app
+t1293045582
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293045582
+s15168
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D124F0E0000000000000153
+t1293045518
+s339
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293045580
+s23292
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1293045580
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/InfoPlist.strings
+c000000004D102280000000000000002D
+t1292903040
+s45
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/MainMenu.xib
+c000000004D102280000000000002BBA2
+t1292903040
+s179106
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.h
+c000000004D102281000000000000014B
+t1292903041
+s331
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.m
+c000000004D123DBF000000000000019D
+t1293041087
+s413
+i"VariableTestAppDelegate.h"
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTest_Prefix.pch
+c000000004D102281000000000000009B
+t1292903041
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app
+t1293041137
+s102
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Info.plist
+t1292903283
+s901
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+t1293041137
+s14912
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/PkgInfo
+t1292903283
+s8
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292903284
+s92
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib
+t1292903284
+s34462
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList
+c000000004D102372000000000000014F
+t1292903282
+s335
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+t1293041135
+s21640
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+t1292903289
+s5072
+
+N/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/main.m
+c000000004D1022810000000000000103
+t1292903041
+s259
+i<Cocoa/Cocoa.h>
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-anvvyrpjdgntvpcsrpbqoadwdpcb/VariableTest_Prefix.pch.gch
+t1293042311
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-atmvlujlpknzxigxldaxfrbenrdy/VariableTest_Prefix.pch.gch
+t1292903289
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bbeeuankxeajoxcalnfbixpzmqim/VariableTest_Prefix.pch.gch
+t1293041711
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-buxeubxrerupqdhkxqfkbwnkfyep/VariableTest_Prefix.pch.gch
+t1293045575
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch.gch
+t1293041797
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bzzlnlayxcwohnbvcceydktocdoj/VariableTest_Prefix.pch.gch
+t1293042242
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cijjxivpyyzhmfdwwjrpmxwdodmm/VariableTest_Prefix.pch.gch
+t1293042507
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cniavlskqbzjeubwighyqftkmdyv/VariableTest_Prefix.pch.gch
+t1293047943
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-dmxvwsdferlanlgkttejqckxlgff/VariableTest_Prefix.pch.gch
+t1293047876
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ediidtchtiabxlemrehhktghbxne/VariableTest_Prefix.pch.gch
+t1293041622
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ggavwawodojdarcmhuxhgcepjiny/VariableTest_Prefix.pch.gch
+t1293043609
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-gpwopcgqpjzfzrfpikkuidqqvafs/VariableTest_Prefix.pch.gch
+t1293043529
+s54306576
+
+N/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-hiwdecumhyeubugekeirzhanhaga/VariableTest_Prefix.pch.gch
+t1293047786
+s54306576
+
+NVariableTest-Info.plist
+c000000004D10228000000000000003EA
+t1292903040
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314741853#314741853#0(0"0(0#1#0"8603386880#0"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314741678.100196
+e314741678.561869
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.m314741678#314741678#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.m8608338528#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ediidtchtiabxlemrehhktghbxne/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740586.609608
+e314740586.838261
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.m314740586#314740586#0(0"0(0#0#107"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.m8608808768#2083"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-hiwdecumhyeubugekeirzhanhaga/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740676.901000
+e314740677.096328
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.m314740676#314740677#0(0"0(0#0#107"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.m8604552064#2083"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-dmxvwsdferlanlgkttejqckxlgff/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740744.080732
+e314740744.281967
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.m314740744#314740744#0(0"0(0#0#107"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.m8603321024#2083"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cniavlskqbzjeubwighyqftkmdyv/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314741762.377295
+e314741787.248933
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.m314741762#314741787#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.m8603075424#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bbeeuankxeajoxcalnfbixpzmqim/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314741853.366788
+e314741857.728050
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m314741853#314741857#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m8601446016#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736130.731940
+e314736131.188182
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.m314736130#314736131#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.m8608051776#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bzzlnlayxcwohnbvcceydktocdoj/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736204.388537
+e314736204.842638
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.m314736204#314736204#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.m8604595904#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-anvvyrpjdgntvpcsrpbqoadwdpcb/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736264.462723
+e314736264.927172
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.m314736264#314736264#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.m8601349376#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cijjxivpyyzhmfdwwjrpmxwdodmm/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736329.916923
+e314736330.127643
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.m314736329#314736330#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.m8598836576#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-gpwopcgqpjzfzrfpikkuidqqvafs/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736409.852476
+e314736411.441365
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.m314736409#314736411#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.m8608925344#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ggavwawodojdarcmhuxhgcepjiny/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314738375.615756
+e314738380.966626
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@114"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.m314738375#314738380#0(0"0(0#0#106"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.m8609995168#2072"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-buxeubxrerupqdhkxqfkbwnkfyep/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314733934.280473
+e314733935.450713
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.m314733934#314733935#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.m7161089748691608576#2050"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-atmvlujlpknzxigxldaxfrbenrdy/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTestAppDelegate.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTestAppDelegate.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314734422.517690
+e314734422.722548
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/main.m314734422#314734422#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/main.m8609384000#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ediidtchtiabxlemrehhktghbxne/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740586.595549
+e314740586.786075
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/main.m314740586#314740586#0(0"0(0#0#88"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/main.m8604141088#2045"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-hiwdecumhyeubugekeirzhanhaga/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740676.855949
+e314740677.078098
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/main.m314740676#314740677#0(0"0(0#0#88"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/main.m8607846240#2045"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-dmxvwsdferlanlgkttejqckxlgff/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740744.031648
+e314740744.270491
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/main.m314740744#314740744#0(0"0(0#0#88"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/main.m8606329280#2045"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cniavlskqbzjeubwighyqftkmdyv/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314734512.074038
+e314734512.344887
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/main.m314734512#314734512#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/main.m8602696224#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bbeeuankxeajoxcalnfbixpzmqim/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314734597.752746
+e314734598.004086
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m314734597#314734598#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m8601232448#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314735042.154101
+e314735042.337850
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/main.m314735042#314735042#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/main.m8604336832#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bzzlnlayxcwohnbvcceydktocdoj/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314735111.652637
+e314735111.865887
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/main.m314735111#314735111#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/main.m8609587616#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-anvvyrpjdgntvpcsrpbqoadwdpcb/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314735307.901835
+e314735308.143197
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/main.m314735307#314735308#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/main.m8595115392#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cijjxivpyyzhmfdwwjrpmxwdodmm/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736329.865146
+e314736330.099109
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/main.m314736329#314736330#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/main.m8600096064#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-gpwopcgqpjzfzrfpikkuidqqvafs/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736409.834263
+e314736411.233795
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/main.m314736409#314736411#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/main.m8609945888#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ggavwawodojdarcmhuxhgcepjiny/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314738375.574146
+e314738380.606170
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/main.m314738375#314738380#0(0"0(0#0#87"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/main.m8602786688#2034"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-buxeubxrerupqdhkxqfkbwnkfyep/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314596089.188979
+e314596089.579140
+r1
+xCompileC
+xbuild/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/main.m314596089#314596089#0(0"0(0#0#85"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/main.m8616659200#2012"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -include /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-atmvlujlpknzxigxldaxfrbenrdy/VariableTest_Prefix.pch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/main.m" -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/MainMenu.xib"
+s314596083.013143
+e314596084.523868
+r1
+xCompileXIB
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib314596083#314596084#0(0"0(0#0#105"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/MainMenu.xib8623043744#495"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s314596083.008135
+e314596084.367291
+r1
+xCopyStringsFile
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings314596083#314596084#0(0"0(0#0#110"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/English.lproj/InfoPlist.strings8610611360#454"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314741678.561975
+e314741678.705161
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314741678#314741678#0(0"0(0#0#0"8609147264#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314740586.838384
+e314740586.936118
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@143"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314740586#314740586#0(0"0(0#0#0"8605961632#792"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314740677.096435
+e314740677.142492
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@143"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314740677#314740677#0(0"0(0#0#0"8603780160#792"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314740744.282075
+e314740744.327259
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@143"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314740744#314740744#0(0"0(0#0#0"8600824384#792"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314741787.249149
+e314741787.343036
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314741787#314741787#0(0"0(0#0#0"8604124992#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314741857.728285
+e314741857.785377
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314741857#314741857#0(0"0(0#0#0"8609922048#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314736131.188282
+e314736131.234196
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314736131#314736131#0(0"0(0#0#0"8608510336#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314736204.842742
+e314736204.888344
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314736204#314736204#0(0"0(0#0#0"8606496736#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314736264.927282
+e314736264.972807
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314736264#314736264#0(0"0(0#0#0"8603242080#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314736330.127747
+e314736330.171976
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314736330#314736330#0(0"0(0#0#0"8600584224#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314736411.441594
+e314736411.507840
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314736411#314736411#0(0"0(0#0#0"8605911264#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314738380.966906
+e314738382.278711
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@142"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314738380#314738382#0(0"0(0#0#0"8603095936#787"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CLd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/MacOS/VariableTest" normal x86_64
+s314733935.450816
+e314733937.803079
+r1
+xLd
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/MacOS/VariableTest
+xnormal
+xx86_64
+lSLF07#2@140"Link /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/MacOS/VariableTest314733935#314733937#0(0"0(0#0#0"8601401344#777"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug" -filelist "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/Objects-normal/x86_64/VariableTest.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/MacOS/VariableTest"0#
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Info.plist" VariableTest-Info.plist
+s314596083.003577
+e314596083.008019
+r1
+xProcessInfoPlistFile
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Info.plist
+xVariableTest-Info.plist
+lSLF07#2@31"Process VariableTest-Info.plist314596083#314596083#0(0"0(0#0#102"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTest-Info.plist8610641952#451"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    builtin-infoPlistUtility VariableTest-Info.plist -genpkginfo "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-anvvyrpjdgntvpcsrpbqoadwdpcb/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314735107.704032
+e314735111.652397
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-anvvyrpjdgntvpcsrpbqoadwdpcb/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314735107#314735111#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTest_Prefix.pch8601127904#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-anvvyrpjdgntvpcsrpbqoadwdpcb/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-atmvlujlpknzxigxldaxfrbenrdy/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314596084.524126
+e314596089.188742
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-atmvlujlpknzxigxldaxfrbenrdy/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314596084#314596089#0(0"0(0#0#102"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTest_Prefix.pch8610625312#1871"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-atmvlujlpknzxigxldaxfrbenrdy/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bbeeuankxeajoxcalnfbixpzmqim/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314734504.877536
+e314734512.073831
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bbeeuankxeajoxcalnfbixpzmqim/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314734504#314734512#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTest_Prefix.pch8604064000#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bbeeuankxeajoxcalnfbixpzmqim/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-buxeubxrerupqdhkxqfkbwnkfyep/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314738318.943625
+e314738375.573981
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-buxeubxrerupqdhkxqfkbwnkfyep/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314738318#314738375#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTest_Prefix.pch8601384128#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-buxeubxrerupqdhkxqfkbwnkfyep/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314734592.158643
+e314734597.752554
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314734592#314734597#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTest_Prefix.pch8603143072#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bwcpqhnbmvnjfidremeyvovposqz/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bzzlnlayxcwohnbvcceydktocdoj/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314735036.295699
+e314735042.153911
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bzzlnlayxcwohnbvcceydktocdoj/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314735036#314735042#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTest_Prefix.pch8599867648#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-bzzlnlayxcwohnbvcceydktocdoj/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cijjxivpyyzhmfdwwjrpmxwdodmm/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314735302.611815
+e314735307.901640
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cijjxivpyyzhmfdwwjrpmxwdodmm/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314735302#314735307#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTest_Prefix.pch8608205056#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cijjxivpyyzhmfdwwjrpmxwdodmm/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cniavlskqbzjeubwighyqftkmdyv/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740739.320468
+e314740744.031399
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cniavlskqbzjeubwighyqftkmdyv/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314740739#314740744#0(0"0(0#0#105"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTest_Prefix.pch8603726080#1901"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-cniavlskqbzjeubwighyqftkmdyv/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-dmxvwsdferlanlgkttejqckxlgff/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740673.215992
+e314740676.855679
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-dmxvwsdferlanlgkttejqckxlgff/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314740673#314740676#0(0"0(0#0#105"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTest_Prefix.pch8602916896#1901"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-dmxvwsdferlanlgkttejqckxlgff/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ediidtchtiabxlemrehhktghbxne/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314734418.270744
+e314734422.517423
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ediidtchtiabxlemrehhktghbxne/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314734418#314734422#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTest_Prefix.pch7301572412055840768#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ediidtchtiabxlemrehhktghbxne/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ggavwawodojdarcmhuxhgcepjiny/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736405.383238
+e314736409.834062
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ggavwawodojdarcmhuxhgcepjiny/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314736405#314736409#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTest_Prefix.pch8608217600#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-ggavwawodojdarcmhuxhgcepjiny/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-gpwopcgqpjzfzrfpikkuidqqvafs/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314736324.996073
+e314736329.864898
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-gpwopcgqpjzfzrfpikkuidqqvafs/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314736324#314736329#0(0"0(0#0#104"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTest_Prefix.pch8603041216#1891"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-gpwopcgqpjzfzrfpikkuidqqvafs/VariableTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-hiwdecumhyeubugekeirzhanhaga/VariableTest_Prefix.pch.gch VariableTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314740582.906073
+e314740586.595317
+r1
+xProcessPCH
+x/var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-hiwdecumhyeubugekeirzhanhaga/VariableTest_Prefix.pch.gch
+xVariableTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VariableTest_Prefix.pch314740582#314740586#0(0"0(0#0#105"/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTest_Prefix.pch8602770560#1901"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-generated-files.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-own-target-headers.hmap" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-all-target-headers.hmap" -iquote "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/VariableTest-project-headers.hmap" "-F/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/include" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/DerivedSources/x86_64" "-I/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/VariableTest.build/Debug/VariableTest.build/DerivedSources" -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/VariableTest_Prefix.pch" -o /var/folders/b2/b26SJF7PGkKzdGDXK1mPTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VariableTest_Prefix-hiwdecumhyeubugekeirzhanhaga/VariableTest_Prefix.pch.gch0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app"
+s314741678.705270
+e314741678.717884
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app314741678#314741678#0(0"0(0#0#0"8605811360#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-1/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app"
+s314740586.936223
+e314740586.954168
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app
+lSLF07#2@116"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app314740586#314740586#0(0"0(0#0#0"8605712704#226"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-10/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app"
+s314740677.142595
+e314740677.145660
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app
+lSLF07#2@116"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app314740677#314740677#0(0"0(0#0#0"8603448768#226"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-11/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app"
+s314740744.327360
+e314740744.330491
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app
+lSLF07#2@116"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app314740744#314740744#0(0"0(0#0#0"8599802336#226"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-12/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app"
+s314741787.343142
+e314741787.346186
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app314741787#314741787#0(0"0(0#0#0"8603547872#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-2/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app"
+s314741857.785484
+e314741857.788513
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app314741857#314741857#0(0"0(0#0#0"8609509664#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-3/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app"
+s314736131.234298
+e314736131.237315
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app314736131#314736131#0(0"0(0#0#0"8608272096#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-4/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app"
+s314736204.888449
+e314736204.891654
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app314736204#314736204#0(0"0(0#0#0"8603481920#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-5/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app"
+s314736264.972912
+e314736264.975952
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app314736264#314736264#0(0"0(0#0#0"8602607744#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-6/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app"
+s314736330.172077
+e314736330.175164
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app314736330#314736330#0(0"0(0#0#0"8601182048#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-7/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app"
+s314736411.507943
+e314736411.510990
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app314736411#314736411#0(0"0(0#0#0"8605712224#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-8/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app"
+s314738382.278967
+e314738382.315970
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app
+lSLF07#2@115"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app314738382#314738382#0(0"0(0#0#0"8606029408#224"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest-9/build/Debug/VariableTest.app"0#
+
+CTouch "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app"
+s314733937.803274
+e314733937.887230
+r1
+xTouch
+x/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app
+lSLF07#2@113"Touch /Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app314733937#314733937#0(0"0(0#0#0"8604260544#220"    cd "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest"    /usr/bin/touch -c "/Users/bothecat/Documents/Book Projects/Mac OS X Programming/Code/VariableTest/build/Debug/VariableTest.app"0#
+

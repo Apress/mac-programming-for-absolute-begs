@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* CipherAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 338}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 313}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* CipherAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2119, 1131}}";
+			sepNavSelRange = "{2567, 0}";
+			sepNavVisRange = "{1485, 801}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D3FFB98F12B33B4700810CF9 /* Cipher */;
+		activeTarget = 8D1107260486CEB800E47090 /* Cipher */;
+		codeSenseManager = D3FFB9A212B33B5400810CF9 /* Code sense */;
+		executables = (
+			D3FFB98F12B33B4700810CF9 /* Cipher */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					394,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314750182;
+			PBXWorkspaceStateSaveDate = 314750182;
+		};
+		perUserProjectItems = {
+			D372CAE412C2B4C400A1F2E6 /* PBXTextBookmark */ = D372CAE412C2B4C400A1F2E6 /* PBXTextBookmark */;
+			D372CAFC12C2B53F00A1F2E6 /* PBXTextBookmark */ = D372CAFC12C2B53F00A1F2E6 /* PBXTextBookmark */;
+			D3FFBAC212B9B77000810CF9 /* PBXTextBookmark */ = D3FFBAC212B9B77000810CF9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D3FFB9A112B33B5400810CF9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Cipher */ = {
+		activeExec = 0;
+		executables = (
+			D3FFB98F12B33B4700810CF9 /* Cipher */,
+		);
+	};
+	D372CAE412C2B4C400A1F2E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* CipherAppDelegate.m */;
+		name = "CipherAppDelegate.m: 84";
+		rLen = 0;
+		rLoc = 2567;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 1445;
+	};
+	D372CAFC12C2B53F00A1F2E6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* CipherAppDelegate.m */;
+		name = "CipherAppDelegate.m: 84";
+		rLen = 0;
+		rLoc = 2567;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 1485;
+	};
+	D3FFB98F12B33B4700810CF9 /* Cipher */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Cipher;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D3FFB9A112B33B5400810CF9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D3FFB9A212B33B5400810CF9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D3FFBAC212B9B77000810CF9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* CipherAppDelegate.h */;
+		name = "CipherAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+}
